@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0022-generate-parentheses) |
 | [0767-reorganize-string](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
@@ -121,6 +122,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0509-fibonacci-number) |
 ## Math
@@ -131,4 +133,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nihalnagar28/DSA-PATTERN-PREP/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
